@@ -1,4 +1,4 @@
-package pe.edu.upeu.andinasalud
+package pe.upeu.andinasalud
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
