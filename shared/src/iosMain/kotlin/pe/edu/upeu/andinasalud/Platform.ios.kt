@@ -1,6 +1,5 @@
-package pe.edu.upeu.andinasalud
+package pe.upeu.andinasalud
 
-import pe.upeu.andinasalud.Platform
 import platform.UIKit.UIDevice
 
 class IOSPlatform: Platform {

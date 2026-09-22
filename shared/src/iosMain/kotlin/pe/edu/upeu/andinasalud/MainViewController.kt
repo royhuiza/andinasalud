@@ -1,4 +1,4 @@
-package pe.edu.upeu.andinasalud
+package pe.upeu.andinasalud
 
 import androidx.compose.ui.window.ComposeUIViewController
 
